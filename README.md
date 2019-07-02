@@ -1,2 +1,2 @@
 # Algorithm-Playground
-Repo for testing different types of algorithms
+Repository for testing different types of algorithms
